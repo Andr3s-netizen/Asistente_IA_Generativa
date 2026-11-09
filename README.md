@@ -2,7 +2,7 @@
 
 Este proyecto consiste en el desarrollo y despliegue de un chatbot interactivo basado en Inteligencia Artificial Generativa. Desarrollado como un trabajo académico para demostrar el ciclo completo de software: desde la configuración local, manejo de SDKs modernos, hasta la implementación segura de credenciales en producción.
 
-🚀 **Acceso a la App en Vivo:** [Inserta aquí tu enlace de Streamlit]
+🚀 **Acceso a la App en Vivo:** [https://asistenteiagenerativa-dx2vyypyc2vz4vl7jogaax.streamlit.app/]
 
 ## 🛠️ Tecnologías Utilizadas
 * **Python 3.13** (Entorno de ejecución principal).
